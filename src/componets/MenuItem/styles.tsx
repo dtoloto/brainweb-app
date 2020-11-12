@@ -33,7 +33,7 @@ export const Container = styled.div`
 
   img {
     max-width: 70px;
-    max-height: 100%;
+    max-height: 70px;
     margin-right: 15px;
   }
 
