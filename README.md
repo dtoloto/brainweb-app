@@ -1,7 +1,8 @@
 
 
 
-# Teste - Brainweb
+
+# Teste - APP Brainweb 
 
 
 
@@ -33,7 +34,7 @@ Faça a instalação de todas as dependências através do comando:
 
 
 
-  $ yarn install
+      $ yarn install
 
 
 
@@ -41,13 +42,15 @@ Para a executar a aplicação, utilize o comando:
 
 
 
-  $ yarn start
+      $ yarn start
 
 
 
 A aplicação se comunica com uma API hospedada em:
 
 
-  https://brainweb-challenge.herokuapp.com/
+ 
+
+     https://brainweb-challenge.herokuapp.com/
 
 O código da API pode ser encontrado nesse repositório [aqui](https://github.com/dtoloto/brainweb-api)
