@@ -66,6 +66,7 @@ const OrderProvider: React.FC = ({ children }) => {
 
   const setIsNotRecommended = useCallback(() => {
     setOrder({ ...order, isRecommended: false });
+    setPoints(0);
   }, [order]);
 
   const setDough = useCallback(
